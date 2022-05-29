@@ -1,3 +1,3 @@
-# Quick file server
+# 1. Quick file server
 
 See course material for walkthrough.
