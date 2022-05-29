@@ -1,3 +1,3 @@
-# 2. Zero Dependency Service Mock
+# 3. Mocking GET Routes
 
 See course material for walkthrough.
