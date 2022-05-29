@@ -1,3 +1,3 @@
-# 1. Quick file server
+# 2. Zero Dependency Service Mock
 
 See course material for walkthrough.
