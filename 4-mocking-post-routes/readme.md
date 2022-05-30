@@ -23,7 +23,7 @@ https://shorturl.at/myBQ4
 
 # [Phase 4](./4)
 
-* Add the `/confectionary` POST route
+* Add the `/confectionery` POST route
 * Add the  `/electronics` POST route
 
 **Diff:** https://github.com/davidmarkclements/whistle-stop-workshop/commit/31dc7e1ab5f5df613a926bd1c8476595ebcd5403
@@ -36,6 +36,6 @@ https://shorturl.at/myBQ4
 * Select the "Electronics" category
 * Fill out all three fields and click "Add"
 * Note that a new item is added
-* Refresh the page, select "Eletronics" - note how the added item is still there
+* Refresh the page, select "Electronics" - note how the added item is still there
 * Check the server log output, there should be a POST request to `/electronics`
 

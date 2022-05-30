@@ -1,6 +1,6 @@
 # Zero Dependency Service Mock
 
-https://shorturl.at/vBMSW
+Material: https://bit.ly/3M0RQ5v
 
 
 # [Phase 1](./1)

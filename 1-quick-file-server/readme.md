@@ -1,6 +1,6 @@
 # Quick File Server
 
-https://shorturl.at/qsyLO
+Material: https://bit.ly/3awtXFV
 
 # Preparation
 

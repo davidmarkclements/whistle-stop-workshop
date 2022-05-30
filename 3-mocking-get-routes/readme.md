@@ -1,6 +1,6 @@
 # Mocking GET Routes
 
-https://shorturl.at/drDE5
+Material: https://bit.ly/3GzIuwC
 
 # Preparation
 
@@ -14,7 +14,7 @@ https://shorturl.at/drDE5
 
 # [Phase 2](./2)
 
-* Create `static/app.js`
+* Modify `static/app.js`
 
 **Diff:** https://github.com/davidmarkclements/whistle-stop-workshop/commit/85f68741d889260d5ea4210b22c0b5838b3ace17
 
@@ -35,7 +35,7 @@ https://shorturl.at/drDE5
 
 # [Phase 5](./5)
 
-* Create the `/confectionary` GET route
+* Create the `/confectionery` GET route
 * Create the  `/electronics` GET route
 
 **Diff:** https://github.com/davidmarkclements/whistle-stop-workshop/commit/f6c1ecfaba925f478a07d56b2269cb6ba89b681d
@@ -48,6 +48,6 @@ https://shorturl.at/drDE5
 * Navigate to http://localhost:5050
 * Select the "Electronics" category
 * Check the server logs to verify a GET request to `/electronics` was made
-* Select the "Confectionary" category
-* Check the server logs to verify a GET request to `/confectionary` was made
+* Select the "Confectionery" category
+* Check the server logs to verify a GET request to `/confectionery` was made
 
